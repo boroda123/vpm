@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "browserslist": {
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ],
+    "production": [
+      "\u003e0.2%",
+      "not dead",
+      "not op_mini all"
+    ]
+  },
+  "name": "react-app",
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "scripts": {
+    "eject": "react-scripts eject",
+    "test": "react-scripts test",
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  },
+  "version": "0.1.0",
+  "dependencies": {
+    "react-dom": "^18.3.1"
+  }
+}
