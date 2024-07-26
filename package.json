@@ -25,8 +25,5 @@
     "build": "react-scripts build",
     "start": "react-scripts start"
   },
-  "version": "0.1.0",
-  "dependencies": {
-    "react-dom": "^18.3.1"
-  }
+  "version": "0.1.0"
 }

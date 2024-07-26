@@ -40,7 +40,7 @@ public class Vpm {
         } catch (Exception e) {
             System.out.println("\n" + e.getMessage());
             System.out.println(HELP);
-            e.printStackTrace();
+            //e.printStackTrace();
         }
 
     }
